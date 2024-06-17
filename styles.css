@@ -1,2 +1,17 @@
 
-/* Your CSS Code here. */
+img{        
+	border: 3px solid black;
+	border-radius: 12px;
+	height: 300px;
+}
+
+div{
+	background-color: rgb(55, 42, 42);
+	border-radius: 12px;
+}
+
+*{
+	color: white;
+	margin: 5px;
+	border: 10px;
+}
